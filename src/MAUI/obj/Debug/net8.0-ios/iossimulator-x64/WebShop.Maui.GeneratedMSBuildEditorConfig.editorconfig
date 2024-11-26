@@ -1,0 +1,84 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C_MobileProject
+build_property.ProjectDir = C:\Users\LiamLanderloos\source\repos\CMobileProject\src\MAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/CategoriePageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.CategoriePageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriePageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriePageView.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/GamePageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.GamePageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\GamePageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\GamePageView.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/HomePageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.HomePageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePageView.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/LoginPageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.LoginPageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPageView.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/RegisterPageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.RegisterPageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPageView.xaml
+
+[C:/Users/LiamLanderloos/source/repos/CMobileProject/src/MAUI/Views/ShoppingCartPageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = C_MobileProject.Views.ShoppingCartPageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ShoppingCartPageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ShoppingCartPageView.xaml

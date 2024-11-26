@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118134937_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241118134937_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\dbcontexts\\webshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:dbcontexts\\webshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\models\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:models\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\models\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:models\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118131854_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241118131854_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\profiles\\shoppingcartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:profiles\\shoppingcartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\profiles\\cartitemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:profiles\\cartitemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130919_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241118130919_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130302_guid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241118130302_guid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\services\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:services\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|c:\\users\\liamlanderloos\\source\\repos\\webshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D60D05-1CDE-4D33-8676-322173DCE394}|Webshop.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118091654_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241118091654_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1874306417:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:485558433:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1274091962:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:766100869:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:627871859:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:585742311:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1000642808:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:15:03.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Services\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\GameRepository.cs",
+              "RelativeToolTip": "Services\\GameRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:32:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Services\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA7wCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:27:51.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repositories\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\ICartItemRepository.cs",
+              "RelativeToolTip": "Services\\Repositories\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:28:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repositories\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\IGameRepository.cs",
+              "RelativeToolTip": "Services\\Repositories\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:33:14.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Controllers\\CartItemController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:27:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:36:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:27:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\ShoppingCartDto.cs",
+              "RelativeToolTip": "Models\\ShoppingCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:11:21.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:18:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\GameDto.cs",
+              "RelativeDocumentMoniker": "Models\\GameDto.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\GameDto.cs",
+              "RelativeToolTip": "Models\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:37:28.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Models\\CartItemDto.cs",
+              "RelativeToolTip": "Models\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:16:47.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:30:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:30:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Database\\User.cs",
+              "RelativeDocumentMoniker": "Database\\User.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Database\\User.cs",
+              "RelativeToolTip": "Database\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:39:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241118134937_init.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118134937_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118134937_init.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118134937_init.cs",
+              "RelativeToolTip": "Migrations\\20241118134937_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:49:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebshopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\DbContexts\\WebshopDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\WebshopDbContext.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\DbContexts\\WebshopDbContext.cs",
+              "RelativeToolTip": "DbContexts\\WebshopDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:13:34.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShoppingCartProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\ShoppingCartProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\ShoppingCartProfile.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\ShoppingCartProfile.cs",
+              "RelativeToolTip": "Profiles\\ShoppingCartProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:41:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartItemProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\CartItemProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CartItemProfile.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\CartItemProfile.cs",
+              "RelativeToolTip": "Profiles\\CartItemProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:41:03.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241118131854_init.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118131854_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118131854_init.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118131854_init.cs",
+              "RelativeToolTip": "Migrations\\20241118131854_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:18:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241118130919_test.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130919_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118130919_test.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130919_test.cs",
+              "RelativeToolTip": "Migrations\\20241118130919_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:09:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241118130302_guid.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130302_guid.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118130302_guid.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118130302_guid.cs",
+              "RelativeToolTip": "Migrations\\20241118130302_guid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:03:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repositories\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Services\\Repositories\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:28:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Entities\\Game.cs",
+              "RelativeToolTip": "Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:14:23.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\GameProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\GameProfile.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Profiles\\GameProfile.cs",
+              "RelativeToolTip": "Profiles\\GameProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:38:05.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Services\\CartItemRepository.cs",
+              "RelativeToolTip": "Services\\CartItemRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:27:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T09:17:22.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241118091654_test.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118091654_test.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241118091654_test.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\Webshop.API\\Migrations\\20241118091654_test.cs",
+              "RelativeToolTip": "Migrations\\20241118091654_test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:16:55.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1458,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1695,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

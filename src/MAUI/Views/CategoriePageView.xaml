@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:C_MobileProject.ViewModels"
+             x:Class="C_MobileProject.Views.CategoriePageView"
+             Title="CategoriePageView">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="10">
+
+                <!-- Search Bar Section -->
+                <SearchBar 
+                   x:Name="SearchBar" 
+                   Placeholder="Search for products..." 
+                   HorizontalOptions="FillAndExpand"
+                   SearchCommand="{Binding SearchCommand}"
+                   SearchCommandParameter="{Binding SearchQuery}" />
+
+                <!-- Product Grid -->
+                <CollectionView 
+                   ItemsSource="{Binding Products}"
+                   SelectionMode="None">
+
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Padding="10" Margin="5" BorderColor="#d3d3d3" HasShadow="True" CornerRadius="8">
+                                <StackLayout>
+                                    <Image Source="{Binding ImageUrl}" Aspect="AspectFill" HeightRequest="200" />
+                                    <Label Text="{Binding Name}" FontSize="16" FontAttributes="Bold" />
+                                    <Label Text="{Binding Price, StringFormat='${0:F2}'}" FontSize="14" TextColor="Gray" />
+                                    <Button Text="Add to Cart" Command="{Binding AddToCartCommand}" CommandParameter="{Binding Id}" />
+                                </StackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

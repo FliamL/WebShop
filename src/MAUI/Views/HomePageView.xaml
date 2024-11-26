@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:C_MobileProject.ViewModels"
+             x:Class="C_MobileProject.Views.HomePageView"
+             Title="Home">
+    <VerticalStackLayout>
+
+        <!-- Header -->
+        <Grid Padding="10">
+            <Label Text="GameShop" FontSize="30" FontAttributes="Bold" HorizontalOptions="Center" />
+
+        </Grid>
+
+        <!-- Featured Carousel -->
+        <CarouselView
+        x:Name="GameCarousel"
+        ItemsSource="{Binding FeaturedGames}"
+        Loop="True"
+        HeightRequest="250"
+        Margin="0,20">
+
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" CornerRadius="10" Padding="5">
+                        <StackLayout>
+                            <Image Source="{Binding ImageUrl}" Aspect="AspectFill" HeightRequest="200"/>
+                            <Label Text="{Binding Name}" FontSize="18" HorizontalOptions="Center" />
+                            <Label Text="{Binding Discount}" FontSize="14" HorizontalOptions="Center" TextColor="Red"/>
+                            <Button Text="Shop Now" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+
+        <!-- Discounted Games -->
+        <StackLayout Padding="10">
+            <Label Text="Discounted Games" FontSize="22" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+            <CollectionView ItemsSource="{Binding Games}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BorderColor="Gray" Padding="10" Margin="5" CornerRadius="10">
+                            <StackLayout>
+                                <Label Text="{Binding Name}" FontSize="18"/>
+                                <Label Text="{Binding Price}" FontSize="16" TextColor="Green"/>
+                                <Label Text="{Binding Discount}" FontSize="14" TextColor="Red"/>
+                                <Button 
+                                    Text="Add to Cart" 
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewModels:HomePageViewModel}}, Path=AddToShoppingCartCommand}" 
+                                    CommandParameter="{Binding}" />
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </VerticalStackLayout>
+
+</ContentPage>

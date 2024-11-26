@@ -1,0 +1,1 @@
+C:\Users\LiamLanderloos\source\repos\CMobileProject\src\MAUI\WebShop.Maui.csproj;x64

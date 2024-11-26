@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\models\\reponses\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:models\\reponses\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\models\\reponses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:models\\reponses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\models\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\viewmodels\\gamepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:viewmodels\\gamepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\viewmodels\\registerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:viewmodels\\registerpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\views\\gamepageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:views\\gamepageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\services\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:services\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F67450-C957-4E81-AA4B-F46643F07EF4}|..\\API\\WebShop.Api.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LiamLanderloos\\AppData\\Local\\Temp\\VSGeneratedDocuments\\ffc293a9-3536-4c51-f56a-ecc14aafb4ff\\C_MobileProject.Models.UserRegister.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\views\\registerpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:views\\registerpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|c:\\users\\liamlanderloos\\source\\repos\\cmobileproject\\src\\maui\\views\\loginpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AB58864-8E89-4F61-AADD-AA57DF31731C}|WebShop.Maui.csproj|solutionrelative:views\\loginpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:58:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Reponses\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\Reponses\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Reponses\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\Reponses\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:57:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:56:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1874306417:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:485558433:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1274091962:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:766100869:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:627871859:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:585742311:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1000642808:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Reponses\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Reponses\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\Reponses\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\Reponses\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:56:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Models\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "..\\API\\Models\\ShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Models\\ShoppingCartDto.cs",
+              "RelativeToolTip": "..\\API\\Models\\ShoppingCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:47:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "..\\API\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "..\\API\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:47:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Services\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:44:46.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Services\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:09:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:16:19.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "..\\API\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "..\\API\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:47:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:01:57.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "..\\API\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\GameController.cs",
+              "RelativeToolTip": "..\\API\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:55:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:55:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:09:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:49:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "..\\API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "..\\API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:08:33.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T13:21:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\IGameRepository.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:56:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:51:28.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:50:28.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\RegisterPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterPageViewModel.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\RegisterPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterPageViewModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:09:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GamePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\GamePageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GamePageViewModel.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\ViewModels\\GamePageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GamePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:56:28.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GamePageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\GamePageView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\GamePageView.xaml.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\GamePageView.xaml.cs",
+              "RelativeToolTip": "Views\\GamePageView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:56:27.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\RegisterPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\RegisterPageView.xaml",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\RegisterPageView.xaml",
+              "RelativeToolTip": "Views\\RegisterPageView.xaml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T12:18:51.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "C_MobileProject.Models.UserRegister.g.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\AppData\\Local\\Temp\\VSGeneratedDocuments\\ffc293a9-3536-4c51-f56a-ecc14aafb4ff\\C_MobileProject.Models.UserRegister.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\ffc293a9-3536-4c51-f56a-ecc14aafb4ff\\C_MobileProject.Models.UserRegister.g.cs",
+              "ToolTip": "C_MobileProject.Models.UserRegister.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "C_MobileProject.Models.UserRegister.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
+              "WhenOpened": "2024-11-21T12:35:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\API\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\API\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "..\\API\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:09:44.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\LoginPageView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginPageView.xaml",
+              "ToolTip": "C:\\Users\\LiamLanderloos\\source\\repos\\CMobileProject\\src\\MAUI\\Views\\LoginPageView.xaml",
+              "RelativeToolTip": "Views\\LoginPageView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T12:19:57.744Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 916,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 916,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

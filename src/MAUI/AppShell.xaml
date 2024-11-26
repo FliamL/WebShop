@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="C_MobileProject.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:C_MobileProject.Views"
+    Title="C_MobileProject">
+
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate views:LoginPageView}"
+        Route="MainPage"/>
+
+    <ShellContent Title="Home"
+                  Icon="cat.png"
+                  ContentTemplate="{DataTemplate views:HomePageView}"/>
+    <ShellContent Title="Categories"
+                  Icon="cat.png"
+                  ContentTemplate="{DataTemplate views:CategoriePageView}"/>
+    <ShellContent Title="Games"
+                  Icon="cat.png"
+                  ContentTemplate="{DataTemplate views:GamePageView}"/>
+    <ShellContent Title="Shopping Cart"
+                  Icon="cat.png"
+                  ContentTemplate="{DataTemplate views:ShoppingCartPageView}"/>
+
+
+</Shell>
